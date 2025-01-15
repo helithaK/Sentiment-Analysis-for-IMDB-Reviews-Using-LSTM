@@ -20,7 +20,7 @@ def get_requirements(file_path:str)-> List[str]:
         
 
 setup(
-name = 'mlproject',
+name = 'Sentiment-Analysis-for-IMDB-Reviews-Using-LSTM',
 version = '0.0.1',
 author = 'Helitha',
 author_email = 'helitha56@gmail.com',
